@@ -1,0 +1,12 @@
+{
+  "name": "q-music-ambiance",
+  "version": "1.0.0",
+  "description": "Displays colors on a Das Keyboard Q Device depending on the audio of the computer",
+  "main": "main.js",
+  "repository": "https://github.com/AhmedLoud/QMusicAmbiance",
+  "author": "Ahmed Loudghiri",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
